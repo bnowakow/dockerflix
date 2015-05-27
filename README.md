@@ -1,7 +1,7 @@
 Dockerflix
 ========
 
-Want to watch U.S. Netflix, Hulu, MTV, Vevo, Crackle, ABC, NBC, PBS...?  
+Want to watch U.S. Netflix, Hulu, MTV, Vevo, Crackle, ABC, NBC, PBS, HBO...?  
 Got a Dnsmasq capable router at home, a Raspberry Pi or similar Linux computer?  
 Got a virtual private server with a U.S. IP address?  
 **Then you've come to the right place!**
@@ -104,6 +104,7 @@ A few media players (i.e. Chromecast) ignore your DNS settings and always resort
 | [Cooking Channel TV](http://www.cookingchanneltv.com/)          | Yes             |     |         |
 | [Pandora](http://www.pandora.com/)                              | Yes             | Yes |         |
 | [iHeart Radio](http://www.iheart.com/)                          | Yes             |     |         |
+| [HBO GO](http://www.hbogo.com)                                  | Yes             |     |         |
 
 <sup><a name="hulu">1</a></sup> Hulu has blacklisted many VPS providers in the U.S. You have to be lucky to find one which still works.
 
